@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="41.322" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Ramadan App Account Register Test" name="" time="41.179">
+<system-out><![CDATA[
+* The User Starts Muslim_Ramadan App........................................passed
+* The user clicks on the "Continue with Email" button.......................passed
+* The user fills the "userName", "userMail", "userPass" and click on Register button.passed
+]]></system-out>
+</testcase>
+</testsuite>
